@@ -1,6 +1,6 @@
 # Introduction
 
-The program is an implementation of a DBMS storing contact information
+The program is a menu-driven implementation of a DBMS storing contact information
 
 ![description](description.jpg)
 
